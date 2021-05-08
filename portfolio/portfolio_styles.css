@@ -1,0 +1,10 @@
+.card-text {
+  background-color: tomato;
+  color: white;
+  font-family: Cursive;
+  text-align: center;
+}
+
+.glitched_image_item {  
+  margin-bottom: 30px;  
+}
