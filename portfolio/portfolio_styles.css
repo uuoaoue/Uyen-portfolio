@@ -1,3 +1,7 @@
+body {
+  padding-top: 5rem;
+}
+
 .card-text {
   background-color: tomato;
   color: white;
